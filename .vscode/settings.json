@@ -1,0 +1,19 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "allowExpressions": "explicit"
+  },
+  "eslint.validate": [
+    "javascript"
+  ],
+  "cSpell.words": [
+    "AMOUNTPERHOUR",
+    "formik",
+    "ifsc",
+    "intialvalues",
+    "OVERTIMEAMOUNTPERHOUR",
+    "SINGLEDETAIL",
+    "tanstack",
+    "toastify"
+  ]
+}

@@ -1,0 +1,2 @@
+# mini-map-application
+This project is a React application built with TypeScript that demonstrates the implementation of a mini-map system. The mini-map overlays on top of a game interface and displays sections of a larger game map. It scrolls dynamically as the user moves the cursor around the game map.
